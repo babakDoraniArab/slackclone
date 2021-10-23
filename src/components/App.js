@@ -1,14 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-import './App.css';
+import "./App.css";
 
 class App extends Component {
   render() {
-    return (
-      <div className="App">
-       سیب
-      </div>
-    );
+    return <div className="app">سیب</div>;
   }
 }
 
